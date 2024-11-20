@@ -11,7 +11,7 @@ Welcome to the Automated Food Price and Ingredients Comparison project! This pla
 
 
 ## 📊 Project Overview
-Our project aims to create a user-friendly website where shoppers can compare food prices and ingredients across various retailers. By leveraging web scraping and data analysis, we provide real-time information that helps users save money and time while shopping. 💰⏰
+This project aims to create a user-friendly website where shoppers can compare food prices and ingredients across various retailers. By leveraging web scraping and data analysis, we provide real-time information that helps users save money and time while shopping. 💰⏰
 
 ## 🚀 Features
 - `Price Comparison`: Easily compare prices of food items from different retailers. 🏷️
