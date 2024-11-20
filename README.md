@@ -51,9 +51,13 @@ Our project aims to create a user-friendly website where shoppers can compare fo
 
 # Technologies Used 💻
 ● Programming Languages: `Python`
+
 ● Web Development: `HTML`, `CSS`, `JavaScript`
+
 ● Frameworks: `Python Flask`, `Bootstrap`
+
 ● Databases: `SQLite`, `MySQL`
+
 ● Tools: `VS Code`, `Adobe XD`, `WordPress`, `Kissflow`, `BeautifulSoup`, `Selenium`
 
 # 🏁 Getting Started
@@ -73,6 +77,7 @@ Visit the Website: Open your browser and go to http://localhost:5000 to start co
 A special thanks to my mentors:
 - `Prof. Sudharsana V Iyengar`
 - `Prof. Suresh Darla`
+
 Their guidance and expertise have been invaluable throughout this project! 🙌
 
 # 📄 License
