@@ -1,9 +1,10 @@
-## 🍽️ Automated Food Price and Ingredients Comparison
+# 🍽️ Automated Food Price and Ingredients Comparison
 Welcome to the Automated Food Price and Ingredients Comparison project! This platform is designed to empower consumers by providing them with the tools to make informed grocery shopping decisions. 🛒✨
 
 ## 📖 Table of Contents
 - Project Overview
 - Features
+- Website Demo
 - Technologies Used
 - Getting Started
 - Contributors
@@ -19,7 +20,7 @@ This project aims to create a user-friendly website where shoppers can compare f
 - `User -Friendly Interface`: Navigate the site with ease and find what you need quickly. 🖥️
 - `Real-Time Updates`: Get the latest prices and availability directly from retailers. 🔄
 
-# Website Demo:
+## 🖥️Website Demo:
 ![image](https://github.com/user-attachments/assets/e328ea2a-0a3b-4332-86c7-fe1fdc3efaf9)
 
 
@@ -49,7 +50,7 @@ This project aims to create a user-friendly website where shoppers can compare f
 
 
 
-# Technologies Used 💻
+## Technologies Used 💻
 ● Programming Languages: `Python`
 
 ● Web Development: `HTML`, `CSS`, `JavaScript`
@@ -60,7 +61,7 @@ This project aims to create a user-friendly website where shoppers can compare f
 
 ● Tools: `VS Code`, `Adobe XD`, `WordPress`, `Kissflow`, `BeautifulSoup`, `Selenium`
 
-# 🏁 Getting Started
+## 🏁 Getting Started
 To get started with the project, follow these steps:
 
 1. Clone the Repository:
@@ -73,7 +74,7 @@ pip install -r requirements.txt
 python app.py
 Visit the Website: Open your browser and go to http://localhost:5000 to start comparing prices! 🌍
 
-# 🤝 Contributors
+## 🤝 Contributors
 A special thanks to my mentors:
 - `Prof. Sudharsana V Iyengar`
 - `Prof. Suresh Darla`
