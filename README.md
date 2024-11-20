@@ -14,10 +14,10 @@ Welcome to the Automated Food Price and Ingredients Comparison project! This pla
 Our project aims to create a user-friendly website where shoppers can compare food prices and ingredients across various retailers. By leveraging web scraping and data analysis, we provide real-time information that helps users save money and time while shopping. 💰⏰
 
 ## 🚀 Features
-- Price Comparison: Easily compare prices of food items from different retailers. 🏷️
-- Ingredient Analysis: View detailed ingredient lists to make healthier choices. 🥗
-- User -Friendly Interface: Navigate the site with ease and find what you need quickly. 🖥️
-- Real-Time Updates: Get the latest prices and availability directly from retailers. 🔄
+- `Price Comparison`: Easily compare prices of food items from different retailers. 🏷️
+- `Ingredient Analysis`: View detailed ingredient lists to make healthier choices. 🥗
+- `User -Friendly Interface`: Navigate the site with ease and find what you need quickly. 🖥️
+- `Real-Time Updates`: Get the latest prices and availability directly from retailers. 🔄
 
 # Website Demo:
 ![image](https://github.com/user-attachments/assets/e328ea2a-0a3b-4332-86c7-fe1fdc3efaf9)
@@ -50,11 +50,11 @@ Our project aims to create a user-friendly website where shoppers can compare fo
 
 
 # Technologies Used 💻
-● Programming Languages: Python
-● Web Development: HTML, CSS, JavaScript
-● Frameworks: Python Flask, Bootstrap
-● Databases: SQLite, MySQL
-● Tools: VS Code, Adobe XD, WordPress, Kissflow, BeautifulSoup, Selenium
+# ● Programming Languages: `Python`
+# ● Web Development: `HTML`, `CSS`, `JavaScript`
+# ● Frameworks: `Python Flask`, `Bootstrap`
+# ● Databases: `SQLite`, `MySQL`
+# ● Tools: `VS Code`, `Adobe XD`, `WordPress`, `Kissflow`, `BeautifulSoup`, `Selenium`
 
 # 🏁 Getting Started
 To get started with the project, follow these steps:
@@ -71,8 +71,8 @@ Visit the Website: Open your browser and go to http://localhost:5000 to start co
 
 # 🤝 Contributors
 A special thanks to my mentors:
-- Prof. Sudharsana V Iyengar
-- Prof. Suresh Darla
+- `Prof. Sudharsana V Iyengar`
+- `Prof. Suresh Darla`
 Their guidance and expertise have been invaluable throughout this project! 🙌
 
 # 📄 License
