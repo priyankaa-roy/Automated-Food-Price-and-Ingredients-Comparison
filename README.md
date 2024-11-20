@@ -50,11 +50,11 @@ Our project aims to create a user-friendly website where shoppers can compare fo
 
 
 # Technologies Used 💻
-# ● Programming Languages: `Python`
-# ● Web Development: `HTML`, `CSS`, `JavaScript`
-# ● Frameworks: `Python Flask`, `Bootstrap`
-# ● Databases: `SQLite`, `MySQL`
-# ● Tools: `VS Code`, `Adobe XD`, `WordPress`, `Kissflow`, `BeautifulSoup`, `Selenium`
+● Programming Languages: `Python`
+● Web Development: `HTML`, `CSS`, `JavaScript`
+● Frameworks: `Python Flask`, `Bootstrap`
+● Databases: `SQLite`, `MySQL`
+● Tools: `VS Code`, `Adobe XD`, `WordPress`, `Kissflow`, `BeautifulSoup`, `Selenium`
 
 # 🏁 Getting Started
 To get started with the project, follow these steps:
